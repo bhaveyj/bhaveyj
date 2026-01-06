@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveyj&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveyj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveyj" alt="bhaveyj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 
-- 🌱 I’m currently learning **React.js, Node.js, PostgreSQL, Express.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **bjoshi1503@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1-IL9QEOsyempESX8i73T1Dl5aeS9n7wY/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

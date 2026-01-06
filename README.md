@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bjoshi1503@gmail.com**
 
-- 📄 Know about my experiences [https://bhavya-joshi.tiiny.site/](https://bhavya-joshi.tiiny.site/)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1-IL9QEOsyempESX8i73T1Dl5aeS9n7wY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

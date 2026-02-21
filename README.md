@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bjoshi1503@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1-IL9QEOsyempESX8i73T1Dl5aeS9n7wY/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1hpsW6n508Os2aw1IlaStRDP8yiDm3zYO/view?usp=sharing)
 
 <p align="left">
 </p>
